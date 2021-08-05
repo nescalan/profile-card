@@ -45,6 +45,7 @@ body {
 }
 
 .card-body {
+  height: 144px;
   display: -webkit-box;
   display: -ms-flexbox;
   display: flex;
@@ -98,5 +99,15 @@ body {
 .card-footer-social p {
   margin-top: 10px;
   letter-spacing: 1px;
+}
+
+.attribution {
+  margin-top: calc(-175px);
+  font-size: 11px;
+  text-align: center;
+}
+
+.attribution a {
+  color: #3e52a3;
 }
 /*# sourceMappingURL=estilos.css.map */
